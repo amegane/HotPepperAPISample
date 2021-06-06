@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HotPepperAPIExample</string>
+    <string name="credit">Powered by ホットペッパー Webサービス</string>
+    <string name="hot_pepper_web_service">ホットペッパー Webサービス</string>
+    <string name="url_web_service_recruit">http://webservice.recruit.co.jp/</string>
+    <string name="hint_keyword">キーワード</string>
+    <string name="text_view_result">検索結果がここに表示されます</string>
+    <string name="button_submit">送信</string>
+</resources>
